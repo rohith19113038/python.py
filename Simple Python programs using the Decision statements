@@ -1,0 +1,14 @@
+a=input("enter the value:")
+b=input("enter the value:")
+
+if a>b:
+    print("a is greater")
+elif a<b:
+    print("b is greater")
+ 
+    
+num = int(input("Enter a number: "))
+if (num % 2) == 0:
+   print("Even")
+else:
+   print("Odd")
